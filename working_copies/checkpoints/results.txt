@@ -1,0 +1,2400 @@
+
+
+epoch 1
+val AUROC mean 0.4914
+Atelectasis 0.4901
+Cardiomegaly 0.4710
+Effusion 0.4549
+Infiltration 0.5364
+Mass 0.5075
+Nodule 0.4945
+Pneumothorax 0.4885
+Consolidation 0.4940
+Pleural_Thickening 0.4328
+Hernia 0.5439
+
+test_seen AUROC mean 0.4909
+Atelectasis 0.4989
+Effusion 0.4694
+Infiltration 0.5307
+Mass 0.4669
+Nodule 0.4893
+Pneumothorax 0.4889
+Consolidation 0.4788
+Cardiomegaly 0.4770
+Pleural_Thickening 0.4673
+Hernia 0.5415
+
+test_unseen AUROC mean 0.5028
+Edema 0.4868
+Pneumonia 0.5012
+Emphysema 0.5015
+Fibrosis 0.5217
+
+
+epoch 2
+val AUROC mean 0.4900
+Atelectasis 0.4958
+Cardiomegaly 0.4609
+Effusion 0.4513
+Infiltration 0.5272
+Mass 0.5072
+Nodule 0.4953
+Pneumothorax 0.4840
+Consolidation 0.4841
+Pleural_Thickening 0.4374
+Hernia 0.5567
+
+test_seen AUROC mean 0.4918
+Atelectasis 0.5054
+Effusion 0.4676
+Infiltration 0.5215
+Mass 0.4711
+Nodule 0.4949
+Pneumothorax 0.4864
+Consolidation 0.4681
+Cardiomegaly 0.4697
+Pleural_Thickening 0.4759
+Hernia 0.5577
+
+test_unseen AUROC mean 0.4984
+Edema 0.4735
+Pneumonia 0.4895
+Emphysema 0.5000
+Fibrosis 0.5307
+
+
+epoch 1
+val AUROC mean 0.4914
+Atelectasis 0.4901
+Cardiomegaly 0.4710
+Effusion 0.4549
+Infiltration 0.5364
+Mass 0.5075
+Nodule 0.4945
+Pneumothorax 0.4885
+Consolidation 0.4940
+Pleural_Thickening 0.4328
+Hernia 0.5439
+
+test_seen AUROC mean 0.4909
+Atelectasis 0.4989
+Effusion 0.4694
+Infiltration 0.5307
+Mass 0.4669
+Nodule 0.4893
+Pneumothorax 0.4889
+Consolidation 0.4788
+Cardiomegaly 0.4770
+Pleural_Thickening 0.4673
+Hernia 0.5415
+
+test_unseen AUROC mean 0.5028
+Edema 0.4868
+Pneumonia 0.5012
+Emphysema 0.5015
+Fibrosis 0.5217
+
+
+epoch 2
+val AUROC mean 0.4900
+Atelectasis 0.4958
+Cardiomegaly 0.4609
+Effusion 0.4513
+Infiltration 0.5272
+Mass 0.5072
+Nodule 0.4953
+Pneumothorax 0.4840
+Consolidation 0.4841
+Pleural_Thickening 0.4374
+Hernia 0.5567
+
+test_seen AUROC mean 0.4918
+Atelectasis 0.5054
+Effusion 0.4676
+Infiltration 0.5215
+Mass 0.4711
+Nodule 0.4949
+Pneumothorax 0.4864
+Consolidation 0.4681
+Cardiomegaly 0.4697
+Pleural_Thickening 0.4759
+Hernia 0.5577
+
+test_unseen AUROC mean 0.4984
+Edema 0.4735
+Pneumonia 0.4895
+Emphysema 0.5000
+Fibrosis 0.5307
+
+
+epoch 1
+val AUROC mean 0.4898
+Atelectasis 0.4913
+Cardiomegaly 0.4643
+Effusion 0.4446
+Infiltration 0.5329
+Mass 0.5065
+Nodule 0.4975
+Pneumothorax 0.4846
+Consolidation 0.4772
+Pleural_Thickening 0.4391
+Hernia 0.5600
+
+test_seen AUROC mean 0.4901
+Atelectasis 0.5015
+Effusion 0.4636
+Infiltration 0.5230
+Mass 0.4720
+Nodule 0.4980
+Pneumothorax 0.4858
+Consolidation 0.4636
+Cardiomegaly 0.4771
+Pleural_Thickening 0.4730
+Hernia 0.5436
+
+test_unseen AUROC mean 0.5011
+Edema 0.4768
+Pneumonia 0.4918
+Emphysema 0.5057
+Fibrosis 0.5302
+
+
+epoch 1
+val AUROC mean 0.4898
+Atelectasis 0.4913
+Cardiomegaly 0.4643
+Effusion 0.4446
+Infiltration 0.5329
+Mass 0.5065
+Nodule 0.4975
+Pneumothorax 0.4846
+Consolidation 0.4772
+Pleural_Thickening 0.4391
+Hernia 0.5600
+
+test_seen AUROC mean 0.4901
+Atelectasis 0.5015
+Effusion 0.4636
+Infiltration 0.5230
+Mass 0.4720
+Nodule 0.4980
+Pneumothorax 0.4858
+Consolidation 0.4636
+Cardiomegaly 0.4771
+Pleural_Thickening 0.4730
+Hernia 0.5436
+
+test_unseen AUROC mean 0.5011
+Edema 0.4768
+Pneumonia 0.4918
+Emphysema 0.5057
+Fibrosis 0.5302
+
+
+epoch 2
+val AUROC mean 0.4898
+Atelectasis 0.4983
+Cardiomegaly 0.4664
+Effusion 0.4504
+Infiltration 0.5313
+Mass 0.5047
+Nodule 0.4880
+Pneumothorax 0.4864
+Consolidation 0.4839
+Pleural_Thickening 0.4323
+Hernia 0.5563
+
+test_seen AUROC mean 0.4893
+Atelectasis 0.5052
+Effusion 0.4666
+Infiltration 0.5248
+Mass 0.4629
+Nodule 0.4912
+Pneumothorax 0.4829
+Consolidation 0.4705
+Cardiomegaly 0.4762
+Pleural_Thickening 0.4695
+Hernia 0.5436
+
+test_unseen AUROC mean 0.5012
+Edema 0.4874
+Pneumonia 0.4954
+Emphysema 0.4985
+Fibrosis 0.5236
+
+
+epoch 3
+val AUROC mean 0.4926
+Atelectasis 0.4937
+Cardiomegaly 0.4725
+Effusion 0.4506
+Infiltration 0.5325
+Mass 0.5081
+Nodule 0.4894
+Pneumothorax 0.4900
+Consolidation 0.4835
+Pleural_Thickening 0.4386
+Hernia 0.5673
+
+test_seen AUROC mean 0.4928
+Atelectasis 0.5034
+Effusion 0.4672
+Infiltration 0.5255
+Mass 0.4690
+Nodule 0.4904
+Pneumothorax 0.4884
+Consolidation 0.4694
+Cardiomegaly 0.4818
+Pleural_Thickening 0.4734
+Hernia 0.5592
+
+test_unseen AUROC mean 0.5030
+Edema 0.4872
+Pneumonia 0.4979
+Emphysema 0.5017
+Fibrosis 0.5254
+
+
+epoch 6
+val AUROC mean 0.4888
+Atelectasis 0.4963
+Cardiomegaly 0.4690
+Effusion 0.4503
+Infiltration 0.5301
+Mass 0.5055
+Nodule 0.4844
+Pneumothorax 0.4800
+Consolidation 0.4832
+Pleural_Thickening 0.4315
+Hernia 0.5581
+
+test_seen AUROC mean 0.4905
+Atelectasis 0.5059
+Effusion 0.4663
+Infiltration 0.5251
+Mass 0.4654
+Nodule 0.4888
+Pneumothorax 0.4790
+Consolidation 0.4725
+Cardiomegaly 0.4761
+Pleural_Thickening 0.4686
+Hernia 0.5569
+
+test_unseen AUROC mean 0.4977
+Edema 0.4845
+Pneumonia 0.4908
+Emphysema 0.4932
+Fibrosis 0.5224
+
+
+epoch 7
+val AUROC mean 0.4895
+Atelectasis 0.4925
+Cardiomegaly 0.4628
+Effusion 0.4528
+Infiltration 0.5345
+Mass 0.5102
+Nodule 0.4919
+Pneumothorax 0.4859
+Consolidation 0.4903
+Pleural_Thickening 0.4309
+Hernia 0.5438
+
+test_seen AUROC mean 0.4910
+Atelectasis 0.5027
+Effusion 0.4693
+Infiltration 0.5290
+Mass 0.4679
+Nodule 0.4904
+Pneumothorax 0.4858
+Consolidation 0.4745
+Cardiomegaly 0.4778
+Pleural_Thickening 0.4655
+Hernia 0.5473
+
+test_unseen AUROC mean 0.5022
+Edema 0.4950
+Pneumonia 0.4968
+Emphysema 0.4977
+Fibrosis 0.5193
+
+
+epoch 10
+val AUROC mean 0.4894
+Atelectasis 0.4954
+Cardiomegaly 0.4643
+Effusion 0.4488
+Infiltration 0.5322
+Mass 0.5083
+Nodule 0.4934
+Pneumothorax 0.4842
+Consolidation 0.4832
+Pleural_Thickening 0.4288
+Hernia 0.5552
+
+test_seen AUROC mean 0.4905
+Atelectasis 0.5052
+Effusion 0.4670
+Infiltration 0.5258
+Mass 0.4688
+Nodule 0.4939
+Pneumothorax 0.4865
+Consolidation 0.4708
+Cardiomegaly 0.4705
+Pleural_Thickening 0.4655
+Hernia 0.5515
+
+test_unseen AUROC mean 0.5028
+Edema 0.4906
+Pneumonia 0.4948
+Emphysema 0.5024
+Fibrosis 0.5234
+
+
+epoch 15
+val AUROC mean 0.4873
+Atelectasis 0.4902
+Cardiomegaly 0.4681
+Effusion 0.4466
+Infiltration 0.5368
+Mass 0.5040
+Nodule 0.4883
+Pneumothorax 0.4822
+Consolidation 0.4840
+Pleural_Thickening 0.4287
+Hernia 0.5443
+
+test_seen AUROC mean 0.4873
+Atelectasis 0.4998
+Effusion 0.4654
+Infiltration 0.5291
+Mass 0.4633
+Nodule 0.4917
+Pneumothorax 0.4804
+Consolidation 0.4683
+Cardiomegaly 0.4780
+Pleural_Thickening 0.4663
+Hernia 0.5309
+
+test_unseen AUROC mean 0.5016
+Edema 0.4996
+Pneumonia 0.4956
+Emphysema 0.4927
+Fibrosis 0.5184
+
+
+epoch 20
+val AUROC mean 0.4889
+Atelectasis 0.4941
+Cardiomegaly 0.4648
+Effusion 0.4485
+Infiltration 0.5353
+Mass 0.5066
+Nodule 0.4922
+Pneumothorax 0.4868
+Consolidation 0.4817
+Pleural_Thickening 0.4285
+Hernia 0.5501
+
+test_seen AUROC mean 0.4889
+Atelectasis 0.5060
+Effusion 0.4655
+Infiltration 0.5267
+Mass 0.4657
+Nodule 0.4937
+Pneumothorax 0.4845
+Consolidation 0.4703
+Cardiomegaly 0.4718
+Pleural_Thickening 0.4650
+Hernia 0.5399
+
+test_unseen AUROC mean 0.4987
+Edema 0.4848
+Pneumonia 0.4922
+Emphysema 0.4978
+Fibrosis 0.5200
+
+
+epoch 36
+val AUROC mean 0.4903
+Atelectasis 0.4960
+Cardiomegaly 0.4604
+Effusion 0.4506
+Infiltration 0.5288
+Mass 0.5113
+Nodule 0.4900
+Pneumothorax 0.4851
+Consolidation 0.4896
+Pleural_Thickening 0.4351
+Hernia 0.5561
+
+test_seen AUROC mean 0.4901
+Atelectasis 0.5050
+Effusion 0.4680
+Infiltration 0.5260
+Mass 0.4680
+Nodule 0.4907
+Pneumothorax 0.4880
+Consolidation 0.4708
+Cardiomegaly 0.4741
+Pleural_Thickening 0.4674
+Hernia 0.5432
+
+test_unseen AUROC mean 0.4987
+Edema 0.4846
+Pneumonia 0.4882
+Emphysema 0.5041
+Fibrosis 0.5178
+
+
+epoch 1
+val AUROC mean 0.4898
+Atelectasis 0.4913
+Cardiomegaly 0.4643
+Effusion 0.4446
+Infiltration 0.5329
+Mass 0.5065
+Nodule 0.4975
+Pneumothorax 0.4846
+Consolidation 0.4772
+Pleural_Thickening 0.4391
+Hernia 0.5600
+
+test_seen AUROC mean 0.4901
+Atelectasis 0.5015
+Effusion 0.4636
+Infiltration 0.5230
+Mass 0.4720
+Nodule 0.4980
+Pneumothorax 0.4858
+Consolidation 0.4636
+Cardiomegaly 0.4771
+Pleural_Thickening 0.4730
+Hernia 0.5436
+
+test_unseen AUROC mean 0.5011
+Edema 0.4768
+Pneumonia 0.4918
+Emphysema 0.5057
+Fibrosis 0.5302
+
+
+epoch 2
+val AUROC mean 0.4898
+Atelectasis 0.4983
+Cardiomegaly 0.4664
+Effusion 0.4504
+Infiltration 0.5313
+Mass 0.5047
+Nodule 0.4880
+Pneumothorax 0.4864
+Consolidation 0.4839
+Pleural_Thickening 0.4323
+Hernia 0.5563
+
+test_seen AUROC mean 0.4893
+Atelectasis 0.5052
+Effusion 0.4666
+Infiltration 0.5248
+Mass 0.4629
+Nodule 0.4912
+Pneumothorax 0.4829
+Consolidation 0.4705
+Cardiomegaly 0.4762
+Pleural_Thickening 0.4695
+Hernia 0.5436
+
+test_unseen AUROC mean 0.5012
+Edema 0.4874
+Pneumonia 0.4954
+Emphysema 0.4985
+Fibrosis 0.5236
+
+
+epoch 3
+val AUROC mean 0.4926
+Atelectasis 0.4937
+Cardiomegaly 0.4725
+Effusion 0.4506
+Infiltration 0.5325
+Mass 0.5081
+Nodule 0.4894
+Pneumothorax 0.4900
+Consolidation 0.4835
+Pleural_Thickening 0.4386
+Hernia 0.5673
+
+test_seen AUROC mean 0.4928
+Atelectasis 0.5034
+Effusion 0.4672
+Infiltration 0.5255
+Mass 0.4690
+Nodule 0.4904
+Pneumothorax 0.4884
+Consolidation 0.4694
+Cardiomegaly 0.4818
+Pleural_Thickening 0.4734
+Hernia 0.5592
+
+test_unseen AUROC mean 0.5030
+Edema 0.4872
+Pneumonia 0.4979
+Emphysema 0.5017
+Fibrosis 0.5254
+
+
+epoch 6
+val AUROC mean 0.4888
+Atelectasis 0.4963
+Cardiomegaly 0.4690
+Effusion 0.4503
+Infiltration 0.5301
+Mass 0.5055
+Nodule 0.4844
+Pneumothorax 0.4800
+Consolidation 0.4832
+Pleural_Thickening 0.4315
+Hernia 0.5581
+
+test_seen AUROC mean 0.4905
+Atelectasis 0.5059
+Effusion 0.4663
+Infiltration 0.5251
+Mass 0.4654
+Nodule 0.4888
+Pneumothorax 0.4790
+Consolidation 0.4725
+Cardiomegaly 0.4761
+Pleural_Thickening 0.4686
+Hernia 0.5569
+
+test_unseen AUROC mean 0.4977
+Edema 0.4845
+Pneumonia 0.4908
+Emphysema 0.4932
+Fibrosis 0.5224
+
+
+epoch 7
+val AUROC mean 0.4895
+Atelectasis 0.4925
+Cardiomegaly 0.4628
+Effusion 0.4528
+Infiltration 0.5345
+Mass 0.5102
+Nodule 0.4919
+Pneumothorax 0.4859
+Consolidation 0.4903
+Pleural_Thickening 0.4309
+Hernia 0.5438
+
+test_seen AUROC mean 0.4910
+Atelectasis 0.5027
+Effusion 0.4693
+Infiltration 0.5290
+Mass 0.4679
+Nodule 0.4904
+Pneumothorax 0.4858
+Consolidation 0.4745
+Cardiomegaly 0.4778
+Pleural_Thickening 0.4655
+Hernia 0.5473
+
+test_unseen AUROC mean 0.5022
+Edema 0.4950
+Pneumonia 0.4968
+Emphysema 0.4977
+Fibrosis 0.5193
+
+
+epoch 10
+val AUROC mean 0.4894
+Atelectasis 0.4954
+Cardiomegaly 0.4643
+Effusion 0.4488
+Infiltration 0.5322
+Mass 0.5083
+Nodule 0.4934
+Pneumothorax 0.4842
+Consolidation 0.4832
+Pleural_Thickening 0.4288
+Hernia 0.5552
+
+test_seen AUROC mean 0.4905
+Atelectasis 0.5052
+Effusion 0.4670
+Infiltration 0.5258
+Mass 0.4688
+Nodule 0.4939
+Pneumothorax 0.4865
+Consolidation 0.4708
+Cardiomegaly 0.4705
+Pleural_Thickening 0.4655
+Hernia 0.5515
+
+test_unseen AUROC mean 0.5028
+Edema 0.4906
+Pneumonia 0.4948
+Emphysema 0.5024
+Fibrosis 0.5234
+
+
+epoch 15
+val AUROC mean 0.4873
+Atelectasis 0.4902
+Cardiomegaly 0.4681
+Effusion 0.4466
+Infiltration 0.5368
+Mass 0.5040
+Nodule 0.4883
+Pneumothorax 0.4822
+Consolidation 0.4840
+Pleural_Thickening 0.4287
+Hernia 0.5443
+
+test_seen AUROC mean 0.4873
+Atelectasis 0.4998
+Effusion 0.4654
+Infiltration 0.5291
+Mass 0.4633
+Nodule 0.4917
+Pneumothorax 0.4804
+Consolidation 0.4683
+Cardiomegaly 0.4780
+Pleural_Thickening 0.4663
+Hernia 0.5309
+
+test_unseen AUROC mean 0.5016
+Edema 0.4996
+Pneumonia 0.4956
+Emphysema 0.4927
+Fibrosis 0.5184
+
+
+epoch 20
+val AUROC mean 0.4889
+Atelectasis 0.4941
+Cardiomegaly 0.4648
+Effusion 0.4485
+Infiltration 0.5353
+Mass 0.5066
+Nodule 0.4922
+Pneumothorax 0.4868
+Consolidation 0.4817
+Pleural_Thickening 0.4285
+Hernia 0.5501
+
+test_seen AUROC mean 0.4889
+Atelectasis 0.5060
+Effusion 0.4655
+Infiltration 0.5267
+Mass 0.4657
+Nodule 0.4937
+Pneumothorax 0.4845
+Consolidation 0.4703
+Cardiomegaly 0.4718
+Pleural_Thickening 0.4650
+Hernia 0.5399
+
+test_unseen AUROC mean 0.4987
+Edema 0.4848
+Pneumonia 0.4922
+Emphysema 0.4978
+Fibrosis 0.5200
+
+
+epoch 36
+val AUROC mean 0.4903
+Atelectasis 0.4960
+Cardiomegaly 0.4604
+Effusion 0.4506
+Infiltration 0.5288
+Mass 0.5113
+Nodule 0.4900
+Pneumothorax 0.4851
+Consolidation 0.4896
+Pleural_Thickening 0.4351
+Hernia 0.5561
+
+test_seen AUROC mean 0.4901
+Atelectasis 0.5050
+Effusion 0.4680
+Infiltration 0.5260
+Mass 0.4680
+Nodule 0.4907
+Pneumothorax 0.4880
+Consolidation 0.4708
+Cardiomegaly 0.4741
+Pleural_Thickening 0.4674
+Hernia 0.5432
+
+test_unseen AUROC mean 0.4987
+Edema 0.4846
+Pneumonia 0.4882
+Emphysema 0.5041
+Fibrosis 0.5178
+
+
+epoch 1
+val AUROC mean 0.4898
+Atelectasis 0.4913
+Cardiomegaly 0.4643
+Effusion 0.4446
+Infiltration 0.5329
+Mass 0.5065
+Nodule 0.4975
+Pneumothorax 0.4846
+Consolidation 0.4772
+Pleural_Thickening 0.4391
+Hernia 0.5600
+
+test_seen AUROC mean 0.4901
+Atelectasis 0.5015
+Effusion 0.4636
+Infiltration 0.5230
+Mass 0.4720
+Nodule 0.4980
+Pneumothorax 0.4858
+Consolidation 0.4636
+Cardiomegaly 0.4771
+Pleural_Thickening 0.4730
+Hernia 0.5436
+
+test_unseen AUROC mean 0.5011
+Edema 0.4768
+Pneumonia 0.4918
+Emphysema 0.5057
+Fibrosis 0.5302
+
+
+epoch 2
+val AUROC mean 0.4898
+Atelectasis 0.4983
+Cardiomegaly 0.4664
+Effusion 0.4504
+Infiltration 0.5313
+Mass 0.5047
+Nodule 0.4880
+Pneumothorax 0.4864
+Consolidation 0.4839
+Pleural_Thickening 0.4323
+Hernia 0.5563
+
+test_seen AUROC mean 0.4893
+Atelectasis 0.5052
+Effusion 0.4666
+Infiltration 0.5248
+Mass 0.4629
+Nodule 0.4912
+Pneumothorax 0.4829
+Consolidation 0.4705
+Cardiomegaly 0.4762
+Pleural_Thickening 0.4695
+Hernia 0.5436
+
+test_unseen AUROC mean 0.5012
+Edema 0.4874
+Pneumonia 0.4954
+Emphysema 0.4985
+Fibrosis 0.5236
+
+
+epoch 3
+val AUROC mean 0.4926
+Atelectasis 0.4937
+Cardiomegaly 0.4725
+Effusion 0.4506
+Infiltration 0.5325
+Mass 0.5081
+Nodule 0.4894
+Pneumothorax 0.4900
+Consolidation 0.4835
+Pleural_Thickening 0.4386
+Hernia 0.5673
+
+test_seen AUROC mean 0.4928
+Atelectasis 0.5034
+Effusion 0.4672
+Infiltration 0.5255
+Mass 0.4690
+Nodule 0.4904
+Pneumothorax 0.4884
+Consolidation 0.4694
+Cardiomegaly 0.4818
+Pleural_Thickening 0.4734
+Hernia 0.5592
+
+test_unseen AUROC mean 0.5030
+Edema 0.4872
+Pneumonia 0.4979
+Emphysema 0.5017
+Fibrosis 0.5254
+
+
+epoch 1
+val AUROC mean 0.4898
+Atelectasis 0.4913
+Cardiomegaly 0.4643
+Effusion 0.4446
+Infiltration 0.5329
+Mass 0.5065
+Nodule 0.4975
+Pneumothorax 0.4846
+Consolidation 0.4772
+Pleural_Thickening 0.4391
+Hernia 0.5600
+
+test_seen AUROC mean 0.4901
+Atelectasis 0.5015
+Effusion 0.4636
+Infiltration 0.5230
+Mass 0.4720
+Nodule 0.4980
+Pneumothorax 0.4858
+Consolidation 0.4636
+Cardiomegaly 0.4771
+Pleural_Thickening 0.4730
+Hernia 0.5436
+
+test_unseen AUROC mean 0.5011
+Edema 0.4768
+Pneumonia 0.4918
+Emphysema 0.5057
+Fibrosis 0.5302
+
+
+epoch 2
+val AUROC mean 0.4898
+Atelectasis 0.4983
+Cardiomegaly 0.4664
+Effusion 0.4504
+Infiltration 0.5313
+Mass 0.5047
+Nodule 0.4880
+Pneumothorax 0.4864
+Consolidation 0.4839
+Pleural_Thickening 0.4323
+Hernia 0.5563
+
+test_seen AUROC mean 0.4893
+Atelectasis 0.5052
+Effusion 0.4666
+Infiltration 0.5248
+Mass 0.4629
+Nodule 0.4912
+Pneumothorax 0.4829
+Consolidation 0.4705
+Cardiomegaly 0.4762
+Pleural_Thickening 0.4695
+Hernia 0.5436
+
+test_unseen AUROC mean 0.5012
+Edema 0.4874
+Pneumonia 0.4954
+Emphysema 0.4985
+Fibrosis 0.5236
+
+
+epoch 3
+val AUROC mean 0.4926
+Atelectasis 0.4937
+Cardiomegaly 0.4725
+Effusion 0.4506
+Infiltration 0.5325
+Mass 0.5081
+Nodule 0.4894
+Pneumothorax 0.4900
+Consolidation 0.4835
+Pleural_Thickening 0.4386
+Hernia 0.5673
+
+test_seen AUROC mean 0.4928
+Atelectasis 0.5034
+Effusion 0.4672
+Infiltration 0.5255
+Mass 0.4690
+Nodule 0.4904
+Pneumothorax 0.4884
+Consolidation 0.4694
+Cardiomegaly 0.4818
+Pleural_Thickening 0.4734
+Hernia 0.5592
+
+test_unseen AUROC mean 0.5030
+Edema 0.4872
+Pneumonia 0.4979
+Emphysema 0.5017
+Fibrosis 0.5254
+
+
+epoch 6
+val AUROC mean 0.4888
+Atelectasis 0.4963
+Cardiomegaly 0.4690
+Effusion 0.4503
+Infiltration 0.5301
+Mass 0.5055
+Nodule 0.4844
+Pneumothorax 0.4800
+Consolidation 0.4832
+Pleural_Thickening 0.4315
+Hernia 0.5581
+
+test_seen AUROC mean 0.4905
+Atelectasis 0.5059
+Effusion 0.4663
+Infiltration 0.5251
+Mass 0.4654
+Nodule 0.4888
+Pneumothorax 0.4790
+Consolidation 0.4725
+Cardiomegaly 0.4761
+Pleural_Thickening 0.4686
+Hernia 0.5569
+
+test_unseen AUROC mean 0.4977
+Edema 0.4845
+Pneumonia 0.4908
+Emphysema 0.4932
+Fibrosis 0.5224
+
+
+epoch 7
+val AUROC mean 0.4895
+Atelectasis 0.4925
+Cardiomegaly 0.4628
+Effusion 0.4528
+Infiltration 0.5345
+Mass 0.5102
+Nodule 0.4919
+Pneumothorax 0.4859
+Consolidation 0.4903
+Pleural_Thickening 0.4309
+Hernia 0.5438
+
+test_seen AUROC mean 0.4910
+Atelectasis 0.5027
+Effusion 0.4693
+Infiltration 0.5290
+Mass 0.4679
+Nodule 0.4904
+Pneumothorax 0.4858
+Consolidation 0.4745
+Cardiomegaly 0.4778
+Pleural_Thickening 0.4655
+Hernia 0.5473
+
+test_unseen AUROC mean 0.5022
+Edema 0.4950
+Pneumonia 0.4968
+Emphysema 0.4977
+Fibrosis 0.5193
+
+
+epoch 10
+val AUROC mean 0.4894
+Atelectasis 0.4954
+Cardiomegaly 0.4643
+Effusion 0.4488
+Infiltration 0.5322
+Mass 0.5083
+Nodule 0.4934
+Pneumothorax 0.4842
+Consolidation 0.4832
+Pleural_Thickening 0.4288
+Hernia 0.5552
+
+test_seen AUROC mean 0.4905
+Atelectasis 0.5052
+Effusion 0.4670
+Infiltration 0.5258
+Mass 0.4688
+Nodule 0.4939
+Pneumothorax 0.4865
+Consolidation 0.4708
+Cardiomegaly 0.4705
+Pleural_Thickening 0.4655
+Hernia 0.5515
+
+test_unseen AUROC mean 0.5028
+Edema 0.4906
+Pneumonia 0.4948
+Emphysema 0.5024
+Fibrosis 0.5234
+
+
+epoch 15
+val AUROC mean 0.4873
+Atelectasis 0.4902
+Cardiomegaly 0.4681
+Effusion 0.4466
+Infiltration 0.5368
+Mass 0.5040
+Nodule 0.4883
+Pneumothorax 0.4822
+Consolidation 0.4840
+Pleural_Thickening 0.4287
+Hernia 0.5443
+
+test_seen AUROC mean 0.4873
+Atelectasis 0.4998
+Effusion 0.4654
+Infiltration 0.5291
+Mass 0.4633
+Nodule 0.4917
+Pneumothorax 0.4804
+Consolidation 0.4683
+Cardiomegaly 0.4780
+Pleural_Thickening 0.4663
+Hernia 0.5309
+
+test_unseen AUROC mean 0.5016
+Edema 0.4996
+Pneumonia 0.4956
+Emphysema 0.4927
+Fibrosis 0.5184
+
+
+epoch 20
+val AUROC mean 0.4889
+Atelectasis 0.4941
+Cardiomegaly 0.4648
+Effusion 0.4485
+Infiltration 0.5353
+Mass 0.5066
+Nodule 0.4922
+Pneumothorax 0.4868
+Consolidation 0.4817
+Pleural_Thickening 0.4285
+Hernia 0.5501
+
+test_seen AUROC mean 0.4889
+Atelectasis 0.5060
+Effusion 0.4655
+Infiltration 0.5267
+Mass 0.4657
+Nodule 0.4937
+Pneumothorax 0.4845
+Consolidation 0.4703
+Cardiomegaly 0.4718
+Pleural_Thickening 0.4650
+Hernia 0.5399
+
+test_unseen AUROC mean 0.4987
+Edema 0.4848
+Pneumonia 0.4922
+Emphysema 0.4978
+Fibrosis 0.5200
+
+
+epoch 36
+val AUROC mean 0.4903
+Atelectasis 0.4960
+Cardiomegaly 0.4604
+Effusion 0.4506
+Infiltration 0.5288
+Mass 0.5113
+Nodule 0.4900
+Pneumothorax 0.4851
+Consolidation 0.4896
+Pleural_Thickening 0.4351
+Hernia 0.5561
+
+test_seen AUROC mean 0.4901
+Atelectasis 0.5050
+Effusion 0.4680
+Infiltration 0.5260
+Mass 0.4680
+Nodule 0.4907
+Pneumothorax 0.4880
+Consolidation 0.4708
+Cardiomegaly 0.4741
+Pleural_Thickening 0.4674
+Hernia 0.5432
+
+test_unseen AUROC mean 0.4987
+Edema 0.4846
+Pneumonia 0.4882
+Emphysema 0.5041
+Fibrosis 0.5178
+
+
+epoch 1
+val AUROC mean 0.5834
+Atelectasis 0.5970
+Cardiomegaly 0.6339
+Effusion 0.6739
+Infiltration 0.5659
+Mass 0.5769
+Nodule 0.5897
+Pneumothorax 0.6473
+Consolidation 0.5685
+Pleural_Thickening 0.5707
+Hernia 0.4105
+
+test_seen AUROC mean 0.5838
+Atelectasis 0.5811
+Effusion 0.6974
+Infiltration 0.5656
+Mass 0.5289
+Nodule 0.6088
+Pneumothorax 0.5856
+Consolidation 0.5641
+Cardiomegaly 0.5829
+Pleural_Thickening 0.5509
+Hernia 0.5729
+
+test_unseen AUROC mean 0.4990
+Edema 0.4054
+Pneumonia 0.5359
+Emphysema 0.4919
+Fibrosis 0.5628
+
+
+epoch 1
+val AUROC mean 0.4978
+Atelectasis 0.5122
+Cardiomegaly 0.5329
+Effusion 0.5190
+Infiltration 0.4894
+Mass 0.4880
+Nodule 0.4716
+Pneumothorax 0.5692
+Consolidation 0.4695
+Pleural_Thickening 0.5098
+Hernia 0.4169
+
+test_seen AUROC mean 0.4940
+Atelectasis 0.5070
+Effusion 0.5073
+Infiltration 0.4781
+Mass 0.5169
+Nodule 0.4831
+Pneumothorax 0.5152
+Consolidation 0.5068
+Cardiomegaly 0.5213
+Pleural_Thickening 0.5128
+Hernia 0.3919
+
+test_unseen AUROC mean 0.5420
+Edema 0.5492
+Pneumonia 0.5197
+Emphysema 0.5208
+Fibrosis 0.5781
+
+
+epoch 2
+val AUROC mean 0.5064
+Atelectasis 0.5049
+Cardiomegaly 0.5015
+Effusion 0.4695
+Infiltration 0.5263
+Mass 0.5016
+Nodule 0.5001
+Pneumothorax 0.5284
+Consolidation 0.5198
+Pleural_Thickening 0.5072
+Hernia 0.5048
+
+test_seen AUROC mean 0.5139
+Atelectasis 0.5127
+Effusion 0.4972
+Infiltration 0.5192
+Mass 0.4876
+Nodule 0.5266
+Pneumothorax 0.5198
+Consolidation 0.5265
+Cardiomegaly 0.5061
+Pleural_Thickening 0.5124
+Hernia 0.5309
+
+test_unseen AUROC mean 0.5309
+Edema 0.5066
+Pneumonia 0.5436
+Emphysema 0.5062
+Fibrosis 0.5671
+
+
+epoch 4
+val AUROC mean 0.5084
+Atelectasis 0.4896
+Cardiomegaly 0.5246
+Effusion 0.4901
+Infiltration 0.5058
+Mass 0.5171
+Nodule 0.4998
+Pneumothorax 0.4911
+Consolidation 0.5283
+Pleural_Thickening 0.5022
+Hernia 0.5357
+
+test_seen AUROC mean 0.5166
+Atelectasis 0.4908
+Effusion 0.5187
+Infiltration 0.5134
+Mass 0.5310
+Nodule 0.5035
+Pneumothorax 0.5424
+Consolidation 0.5077
+Cardiomegaly 0.5038
+Pleural_Thickening 0.4970
+Hernia 0.5574
+
+test_unseen AUROC mean 0.5196
+Edema 0.5372
+Pneumonia 0.5114
+Emphysema 0.5075
+Fibrosis 0.5222
+
+
+epoch 7
+val AUROC mean 0.5242
+Atelectasis 0.5045
+Cardiomegaly 0.4907
+Effusion 0.5219
+Infiltration 0.4919
+Mass 0.5300
+Nodule 0.5235
+Pneumothorax 0.5703
+Consolidation 0.5204
+Pleural_Thickening 0.4904
+Hernia 0.5981
+
+test_seen AUROC mean 0.4957
+Atelectasis 0.5134
+Effusion 0.5130
+Infiltration 0.4966
+Mass 0.5122
+Nodule 0.4896
+Pneumothorax 0.5281
+Consolidation 0.4895
+Cardiomegaly 0.4730
+Pleural_Thickening 0.5022
+Hernia 0.4398
+
+test_unseen AUROC mean 0.4976
+Edema 0.5358
+Pneumonia 0.4663
+Emphysema 0.4922
+Fibrosis 0.4960
+
+
+epoch 1
+val AUROC mean 0.7192
+Atelectasis 0.7414
+Cardiomegaly 0.8429
+Effusion 0.7446
+Infiltration 0.6486
+Mass 0.7422
+Nodule 0.6911
+Pneumothorax 0.7426
+Consolidation 0.6307
+Pleural_Thickening 0.6515
+Hernia 0.7559
+
+test_seen AUROC mean 0.7141
+Atelectasis 0.7091
+Effusion 0.7520
+Infiltration 0.6299
+Mass 0.7093
+Nodule 0.6911
+Pneumothorax 0.7263
+Consolidation 0.6223
+Cardiomegaly 0.8179
+Pleural_Thickening 0.6536
+Hernia 0.8297
+
+test_unseen AUROC mean 0.5646
+Edema 0.6416
+Pneumonia 0.6129
+Emphysema 0.5004
+Fibrosis 0.5034
+
+
+epoch 2
+val AUROC mean 0.7224
+Atelectasis 0.7480
+Cardiomegaly 0.8663
+Effusion 0.7584
+Infiltration 0.6559
+Mass 0.7568
+Nodule 0.6932
+Pneumothorax 0.7139
+Consolidation 0.6459
+Pleural_Thickening 0.6567
+Hernia 0.7287
+
+test_seen AUROC mean 0.7211
+Atelectasis 0.7206
+Effusion 0.7591
+Infiltration 0.6459
+Mass 0.7130
+Nodule 0.6960
+Pneumothorax 0.7007
+Consolidation 0.6360
+Cardiomegaly 0.8359
+Pleural_Thickening 0.6409
+Hernia 0.8630
+
+test_unseen AUROC mean 0.5697
+Edema 0.6746
+Pneumonia 0.6199
+Emphysema 0.5083
+Fibrosis 0.4762
+
+
+epoch 3
+val AUROC mean 0.7186
+Atelectasis 0.7473
+Cardiomegaly 0.8747
+Effusion 0.7600
+Infiltration 0.6505
+Mass 0.7444
+Nodule 0.6893
+Pneumothorax 0.7466
+Consolidation 0.6185
+Pleural_Thickening 0.6923
+Hernia 0.6621
+
+test_seen AUROC mean 0.7220
+Atelectasis 0.7211
+Effusion 0.7605
+Infiltration 0.6408
+Mass 0.7073
+Nodule 0.6908
+Pneumothorax 0.7254
+Consolidation 0.6111
+Cardiomegaly 0.8393
+Pleural_Thickening 0.6825
+Hernia 0.8417
+
+test_unseen AUROC mean 0.5547
+Edema 0.6099
+Pneumonia 0.6040
+Emphysema 0.4774
+Fibrosis 0.5275
+
+
+epoch 4
+val AUROC mean 0.7223
+Atelectasis 0.7277
+Cardiomegaly 0.8638
+Effusion 0.7540
+Infiltration 0.6484
+Mass 0.7440
+Nodule 0.7078
+Pneumothorax 0.7480
+Consolidation 0.6220
+Pleural_Thickening 0.6774
+Hernia 0.7297
+
+test_seen AUROC mean 0.7135
+Atelectasis 0.6959
+Effusion 0.7596
+Infiltration 0.6405
+Mass 0.7073
+Nodule 0.6945
+Pneumothorax 0.7285
+Consolidation 0.6099
+Cardiomegaly 0.8282
+Pleural_Thickening 0.6615
+Hernia 0.8088
+
+test_unseen AUROC mean 0.5540
+Edema 0.6293
+Pneumonia 0.6015
+Emphysema 0.4871
+Fibrosis 0.4979
+
+
+epoch 5
+val AUROC mean 0.7234
+Atelectasis 0.7425
+Cardiomegaly 0.8672
+Effusion 0.7569
+Infiltration 0.6551
+Mass 0.7601
+Nodule 0.6926
+Pneumothorax 0.7273
+Consolidation 0.6473
+Pleural_Thickening 0.6305
+Hernia 0.7545
+
+test_seen AUROC mean 0.7127
+Atelectasis 0.7156
+Effusion 0.7539
+Infiltration 0.6404
+Mass 0.7227
+Nodule 0.6886
+Pneumothorax 0.7236
+Consolidation 0.6292
+Cardiomegaly 0.8328
+Pleural_Thickening 0.6357
+Hernia 0.7847
+
+test_unseen AUROC mean 0.5500
+Edema 0.6332
+Pneumonia 0.5987
+Emphysema 0.4845
+Fibrosis 0.4838
+
+
+epoch 6
+val AUROC mean 0.7255
+Atelectasis 0.7407
+Cardiomegaly 0.8743
+Effusion 0.7657
+Infiltration 0.6547
+Mass 0.7434
+Nodule 0.7037
+Pneumothorax 0.7435
+Consolidation 0.6441
+Pleural_Thickening 0.6641
+Hernia 0.7207
+
+test_seen AUROC mean 0.7192
+Atelectasis 0.7110
+Effusion 0.7702
+Infiltration 0.6376
+Mass 0.7084
+Nodule 0.7033
+Pneumothorax 0.7284
+Consolidation 0.6382
+Cardiomegaly 0.8384
+Pleural_Thickening 0.6599
+Hernia 0.7961
+
+test_unseen AUROC mean 0.5505
+Edema 0.5984
+Pneumonia 0.5977
+Emphysema 0.4782
+Fibrosis 0.5276
+
+
+epoch 7
+val AUROC mean 0.7256
+Atelectasis 0.7288
+Cardiomegaly 0.8595
+Effusion 0.7438
+Infiltration 0.6562
+Mass 0.7580
+Nodule 0.7014
+Pneumothorax 0.7522
+Consolidation 0.6254
+Pleural_Thickening 0.6689
+Hernia 0.7619
+
+test_seen AUROC mean 0.7135
+Atelectasis 0.6943
+Effusion 0.7500
+Infiltration 0.6379
+Mass 0.7268
+Nodule 0.6928
+Pneumothorax 0.7413
+Consolidation 0.6228
+Cardiomegaly 0.8212
+Pleural_Thickening 0.6581
+Hernia 0.7896
+
+test_unseen AUROC mean 0.5354
+Edema 0.6210
+Pneumonia 0.5858
+Emphysema 0.4479
+Fibrosis 0.4868
+
+
+epoch 13
+val AUROC mean 0.7281
+Atelectasis 0.7428
+Cardiomegaly 0.8738
+Effusion 0.7550
+Infiltration 0.6667
+Mass 0.7611
+Nodule 0.7053
+Pneumothorax 0.7620
+Consolidation 0.6229
+Pleural_Thickening 0.6538
+Hernia 0.7377
+
+test_seen AUROC mean 0.7242
+Atelectasis 0.7151
+Effusion 0.7612
+Infiltration 0.6435
+Mass 0.7183
+Nodule 0.6959
+Pneumothorax 0.7481
+Consolidation 0.6236
+Cardiomegaly 0.8399
+Pleural_Thickening 0.6631
+Hernia 0.8328
+
+test_unseen AUROC mean 0.5402
+Edema 0.6289
+Pneumonia 0.5821
+Emphysema 0.4425
+Fibrosis 0.5074
+
+
+epoch 14
+val AUROC mean 0.7287
+Atelectasis 0.7432
+Cardiomegaly 0.8713
+Effusion 0.7507
+Infiltration 0.6681
+Mass 0.7673
+Nodule 0.7047
+Pneumothorax 0.7609
+Consolidation 0.6264
+Pleural_Thickening 0.6598
+Hernia 0.7351
+
+test_seen AUROC mean 0.7244
+Atelectasis 0.7133
+Effusion 0.7535
+Infiltration 0.6453
+Mass 0.7298
+Nodule 0.6977
+Pneumothorax 0.7437
+Consolidation 0.6284
+Cardiomegaly 0.8417
+Pleural_Thickening 0.6605
+Hernia 0.8302
+
+test_unseen AUROC mean 0.5418
+Edema 0.6355
+Pneumonia 0.5811
+Emphysema 0.4440
+Fibrosis 0.5065
+
+
+epoch 15
+val AUROC mean 0.7299
+Atelectasis 0.7475
+Cardiomegaly 0.8697
+Effusion 0.7523
+Infiltration 0.6685
+Mass 0.7713
+Nodule 0.7094
+Pneumothorax 0.7526
+Consolidation 0.6220
+Pleural_Thickening 0.6636
+Hernia 0.7422
+
+test_seen AUROC mean 0.7281
+Atelectasis 0.7160
+Effusion 0.7572
+Infiltration 0.6474
+Mass 0.7325
+Nodule 0.6970
+Pneumothorax 0.7436
+Consolidation 0.6288
+Cardiomegaly 0.8402
+Pleural_Thickening 0.6659
+Hernia 0.8526
+
+test_unseen AUROC mean 0.5398
+Edema 0.6305
+Pneumonia 0.5791
+Emphysema 0.4476
+Fibrosis 0.5019
+
+
+epoch 16
+val AUROC mean 0.7311
+Atelectasis 0.7465
+Cardiomegaly 0.8703
+Effusion 0.7488
+Infiltration 0.6656
+Mass 0.7716
+Nodule 0.7027
+Pneumothorax 0.7686
+Consolidation 0.6256
+Pleural_Thickening 0.6614
+Hernia 0.7498
+
+test_seen AUROC mean 0.7263
+Atelectasis 0.7144
+Effusion 0.7520
+Infiltration 0.6451
+Mass 0.7322
+Nodule 0.6977
+Pneumothorax 0.7539
+Consolidation 0.6270
+Cardiomegaly 0.8392
+Pleural_Thickening 0.6606
+Hernia 0.8411
+
+test_unseen AUROC mean 0.5425
+Edema 0.6357
+Pneumonia 0.5801
+Emphysema 0.4491
+Fibrosis 0.5052
+
+
+epoch 1
+val AUROC mean 0.6479
+Atelectasis 0.6669
+Cardiomegaly 0.7802
+Effusion 0.7022
+Infiltration 0.5553
+Mass 0.5668
+Nodule 0.6305
+Pneumothorax 0.6850
+Consolidation 0.6264
+Pleural_Thickening 0.5993
+Hernia 0.6661
+
+test_seen AUROC mean 0.6435
+Atelectasis 0.6530
+Effusion 0.7104
+Infiltration 0.5783
+Mass 0.5560
+Nodule 0.6345
+Pneumothorax 0.6318
+Consolidation 0.6190
+Cardiomegaly 0.7520
+Pleural_Thickening 0.5942
+Hernia 0.7058
+
+test_unseen AUROC mean 0.5173
+Edema 0.5933
+Pneumonia 0.5236
+Emphysema 0.5075
+Fibrosis 0.4447
+
+
+epoch 2
+val AUROC mean 0.6711
+Atelectasis 0.6986
+Cardiomegaly 0.8085
+Effusion 0.7359
+Infiltration 0.6085
+Mass 0.6556
+Nodule 0.6458
+Pneumothorax 0.7385
+Consolidation 0.6441
+Pleural_Thickening 0.6281
+Hernia 0.5472
+
+test_seen AUROC mean 0.6568
+Atelectasis 0.6813
+Effusion 0.7435
+Infiltration 0.5947
+Mass 0.6194
+Nodule 0.6644
+Pneumothorax 0.6746
+Consolidation 0.6287
+Cardiomegaly 0.7573
+Pleural_Thickening 0.6143
+Hernia 0.5897
+
+test_unseen AUROC mean 0.4936
+Edema 0.5925
+Pneumonia 0.5509
+Emphysema 0.4483
+Fibrosis 0.3829
+
+
+epoch 3
+val AUROC mean 0.6902
+Atelectasis 0.7005
+Cardiomegaly 0.8310
+Effusion 0.7312
+Infiltration 0.6083
+Mass 0.6724
+Nodule 0.6400
+Pneumothorax 0.7209
+Consolidation 0.6389
+Pleural_Thickening 0.6525
+Hernia 0.7066
+
+test_seen AUROC mean 0.6690
+Atelectasis 0.6894
+Effusion 0.7355
+Infiltration 0.6031
+Mass 0.6329
+Nodule 0.6433
+Pneumothorax 0.6780
+Consolidation 0.6248
+Cardiomegaly 0.7843
+Pleural_Thickening 0.6267
+Hernia 0.6720
+
+test_unseen AUROC mean 0.4917
+Edema 0.5301
+Pneumonia 0.5346
+Emphysema 0.4265
+Fibrosis 0.4758
+
+
+epoch 4
+val AUROC mean 0.6863
+Atelectasis 0.6972
+Cardiomegaly 0.8420
+Effusion 0.7488
+Infiltration 0.6194
+Mass 0.6970
+Nodule 0.6785
+Pneumothorax 0.7519
+Consolidation 0.6329
+Pleural_Thickening 0.6014
+Hernia 0.5936
+
+test_seen AUROC mean 0.6637
+Atelectasis 0.6688
+Effusion 0.7520
+Infiltration 0.5959
+Mass 0.6611
+Nodule 0.6744
+Pneumothorax 0.6851
+Consolidation 0.6157
+Cardiomegaly 0.7986
+Pleural_Thickening 0.5954
+Hernia 0.5903
+
+test_unseen AUROC mean 0.5214
+Edema 0.6000
+Pneumonia 0.5576
+Emphysema 0.4639
+Fibrosis 0.4641
+
+
+epoch 5
+val AUROC mean 0.6983
+Atelectasis 0.7117
+Cardiomegaly 0.8503
+Effusion 0.7459
+Infiltration 0.6272
+Mass 0.7171
+Nodule 0.6817
+Pneumothorax 0.7326
+Consolidation 0.6468
+Pleural_Thickening 0.6411
+Hernia 0.6283
+
+test_seen AUROC mean 0.6896
+Atelectasis 0.6858
+Effusion 0.7513
+Infiltration 0.6143
+Mass 0.6769
+Nodule 0.6711
+Pneumothorax 0.6956
+Consolidation 0.6283
+Cardiomegaly 0.8033
+Pleural_Thickening 0.6440
+Hernia 0.7256
+
+test_unseen AUROC mean 0.5296
+Edema 0.6338
+Pneumonia 0.5948
+Emphysema 0.4611
+Fibrosis 0.4289
+
+
+epoch 6
+val AUROC mean 0.6941
+Atelectasis 0.7172
+Cardiomegaly 0.8592
+Effusion 0.7496
+Infiltration 0.6191
+Mass 0.7025
+Nodule 0.6710
+Pneumothorax 0.7532
+Consolidation 0.6394
+Pleural_Thickening 0.6407
+Hernia 0.5894
+
+test_seen AUROC mean 0.6840
+Atelectasis 0.6866
+Effusion 0.7514
+Infiltration 0.6028
+Mass 0.6854
+Nodule 0.6840
+Pneumothorax 0.7160
+Consolidation 0.6195
+Cardiomegaly 0.8102
+Pleural_Thickening 0.6475
+Hernia 0.6364
+
+test_unseen AUROC mean 0.5370
+Edema 0.5894
+Pneumonia 0.5746
+Emphysema 0.4713
+Fibrosis 0.5129
+
+
+epoch 7
+val AUROC mean 0.7108
+Atelectasis 0.7145
+Cardiomegaly 0.8535
+Effusion 0.7512
+Infiltration 0.6307
+Mass 0.7170
+Nodule 0.6721
+Pneumothorax 0.7382
+Consolidation 0.6369
+Pleural_Thickening 0.6499
+Hernia 0.7436
+
+test_seen AUROC mean 0.7008
+Atelectasis 0.6875
+Effusion 0.7528
+Infiltration 0.6186
+Mass 0.6899
+Nodule 0.6698
+Pneumothorax 0.7183
+Consolidation 0.6266
+Cardiomegaly 0.8158
+Pleural_Thickening 0.6515
+Hernia 0.7773
+
+test_unseen AUROC mean 0.5305
+Edema 0.6411
+Pneumonia 0.5856
+Emphysema 0.4543
+Fibrosis 0.4409
+
+
+epoch 8
+val AUROC mean 0.7056
+Atelectasis 0.7276
+Cardiomegaly 0.8327
+Effusion 0.7468
+Infiltration 0.6282
+Mass 0.7293
+Nodule 0.6790
+Pneumothorax 0.7430
+Consolidation 0.6456
+Pleural_Thickening 0.6494
+Hernia 0.6743
+
+test_seen AUROC mean 0.7053
+Atelectasis 0.6959
+Effusion 0.7572
+Infiltration 0.6265
+Mass 0.7012
+Nodule 0.6817
+Pneumothorax 0.7259
+Consolidation 0.6283
+Cardiomegaly 0.7921
+Pleural_Thickening 0.6376
+Hernia 0.8066
+
+test_unseen AUROC mean 0.5565
+Edema 0.6660
+Pneumonia 0.5813
+Emphysema 0.5150
+Fibrosis 0.4637
+
+
+epoch 9
+val AUROC mean 0.7117
+Atelectasis 0.7210
+Cardiomegaly 0.8626
+Effusion 0.7651
+Infiltration 0.6403
+Mass 0.7183
+Nodule 0.6817
+Pneumothorax 0.7420
+Consolidation 0.6579
+Pleural_Thickening 0.6228
+Hernia 0.7056
+
+test_seen AUROC mean 0.7097
+Atelectasis 0.6944
+Effusion 0.7677
+Infiltration 0.6171
+Mass 0.7023
+Nodule 0.6835
+Pneumothorax 0.7251
+Consolidation 0.6345
+Cardiomegaly 0.8183
+Pleural_Thickening 0.6475
+Hernia 0.8066
+
+test_unseen AUROC mean 0.5553
+Edema 0.6100
+Pneumonia 0.6013
+Emphysema 0.4968
+Fibrosis 0.5131
+
+
+epoch 10
+val AUROC mean 0.7126
+Atelectasis 0.6922
+Cardiomegaly 0.8582
+Effusion 0.7504
+Infiltration 0.6429
+Mass 0.7162
+Nodule 0.6899
+Pneumothorax 0.7474
+Consolidation 0.6411
+Pleural_Thickening 0.6740
+Hernia 0.7134
+
+test_seen AUROC mean 0.7168
+Atelectasis 0.6678
+Effusion 0.7524
+Infiltration 0.6308
+Mass 0.6980
+Nodule 0.7061
+Pneumothorax 0.7306
+Consolidation 0.6301
+Cardiomegaly 0.8163
+Pleural_Thickening 0.6643
+Hernia 0.8721
+
+test_unseen AUROC mean 0.5600
+Edema 0.6526
+Pneumonia 0.5845
+Emphysema 0.4818
+Fibrosis 0.5211
+
+
+epoch 11
+val AUROC mean 0.7238
+Atelectasis 0.7309
+Cardiomegaly 0.8622
+Effusion 0.7613
+Infiltration 0.6328
+Mass 0.7253
+Nodule 0.6886
+Pneumothorax 0.7540
+Consolidation 0.6560
+Pleural_Thickening 0.6615
+Hernia 0.7653
+
+test_seen AUROC mean 0.7200
+Atelectasis 0.7038
+Effusion 0.7605
+Infiltration 0.6194
+Mass 0.7125
+Nodule 0.6873
+Pneumothorax 0.7313
+Consolidation 0.6400
+Cardiomegaly 0.8277
+Pleural_Thickening 0.6525
+Hernia 0.8649
+
+test_unseen AUROC mean 0.5469
+Edema 0.6755
+Pneumonia 0.5876
+Emphysema 0.4648
+Fibrosis 0.4598
+
+
+epoch 12
+val AUROC mean 0.7268
+Atelectasis 0.7210
+Cardiomegaly 0.8602
+Effusion 0.7555
+Infiltration 0.6432
+Mass 0.7512
+Nodule 0.6847
+Pneumothorax 0.7580
+Consolidation 0.6674
+Pleural_Thickening 0.6563
+Hernia 0.7705
+
+test_seen AUROC mean 0.7271
+Atelectasis 0.6961
+Effusion 0.7577
+Infiltration 0.6335
+Mass 0.7192
+Nodule 0.6944
+Pneumothorax 0.7304
+Consolidation 0.6424
+Cardiomegaly 0.8325
+Pleural_Thickening 0.6658
+Hernia 0.8991
+
+test_unseen AUROC mean 0.5394
+Edema 0.6485
+Pneumonia 0.5914
+Emphysema 0.4666
+Fibrosis 0.4512
+
+
+epoch 14
+val AUROC mean 0.7219
+Atelectasis 0.7201
+Cardiomegaly 0.8510
+Effusion 0.7657
+Infiltration 0.6454
+Mass 0.7499
+Nodule 0.6780
+Pneumothorax 0.7446
+Consolidation 0.6626
+Pleural_Thickening 0.6383
+Hernia 0.7631
+
+test_seen AUROC mean 0.7141
+Atelectasis 0.6906
+Effusion 0.7639
+Infiltration 0.6318
+Mass 0.7218
+Nodule 0.6847
+Pneumothorax 0.7379
+Consolidation 0.6392
+Cardiomegaly 0.8165
+Pleural_Thickening 0.6684
+Hernia 0.7863
+
+test_unseen AUROC mean 0.5610
+Edema 0.6734
+Pneumonia 0.5870
+Emphysema 0.5129
+Fibrosis 0.4708
+
+
+epoch 15
+val AUROC mean 0.7287
+Atelectasis 0.7330
+Cardiomegaly 0.8644
+Effusion 0.7694
+Infiltration 0.6412
+Mass 0.7490
+Nodule 0.6917
+Pneumothorax 0.7465
+Consolidation 0.6632
+Pleural_Thickening 0.6665
+Hernia 0.7618
+
+test_seen AUROC mean 0.7236
+Atelectasis 0.7125
+Effusion 0.7646
+Infiltration 0.6197
+Mass 0.7194
+Nodule 0.6957
+Pneumothorax 0.7236
+Consolidation 0.6445
+Cardiomegaly 0.8309
+Pleural_Thickening 0.6644
+Hernia 0.8611
+
+test_unseen AUROC mean 0.5762
+Edema 0.6533
+Pneumonia 0.5974
+Emphysema 0.6023
+Fibrosis 0.4520
+
+
+epoch 16
+val AUROC mean 0.7238
+Atelectasis 0.7289
+Cardiomegaly 0.8662
+Effusion 0.7599
+Infiltration 0.6535
+Mass 0.7491
+Nodule 0.7029
+Pneumothorax 0.7298
+Consolidation 0.6446
+Pleural_Thickening 0.6675
+Hernia 0.7355
+
+test_seen AUROC mean 0.7219
+Atelectasis 0.7048
+Effusion 0.7518
+Infiltration 0.6326
+Mass 0.7202
+Nodule 0.7068
+Pneumothorax 0.7373
+Consolidation 0.6265
+Cardiomegaly 0.8409
+Pleural_Thickening 0.6673
+Hernia 0.8312
+
+test_unseen AUROC mean 0.5726
+Edema 0.6738
+Pneumonia 0.5757
+Emphysema 0.5716
+Fibrosis 0.4690
+
+
+epoch 1
+val AUROC mean 0.6508
+Atelectasis 0.6673
+Cardiomegaly 0.7643
+Effusion 0.7063
+Infiltration 0.5785
+Mass 0.5830
+Nodule 0.6232
+Pneumothorax 0.7011
+Consolidation 0.6383
+Pleural_Thickening 0.6236
+Hernia 0.6221
+
+test_seen AUROC mean 0.6471
+Atelectasis 0.6511
+Effusion 0.7210
+Infiltration 0.5757
+Mass 0.5633
+Nodule 0.6361
+Pneumothorax 0.6356
+Consolidation 0.6095
+Cardiomegaly 0.7401
+Pleural_Thickening 0.6136
+Hernia 0.7253
+
+test_unseen AUROC mean 0.5251
+Edema 0.6818
+Pneumonia 0.5561
+Emphysema 0.4977
+Fibrosis 0.3650
+
+
+epoch 1
+val AUROC mean 0.5972
+Atelectasis 0.6942
+Cardiomegaly 0.7373
+Effusion 0.7377
+Infiltration 0.4987
+Mass 0.4988
+Nodule 0.6033
+Pneumothorax 0.6541
+Consolidation 0.6628
+Pleural_Thickening 0.4622
+Hernia 0.4231
+
+test_seen AUROC mean 0.5759
+Atelectasis 0.6783
+Effusion 0.7385
+Infiltration 0.5306
+Mass 0.4833
+Nodule 0.5824
+Pneumothorax 0.6133
+Consolidation 0.6574
+Cardiomegaly 0.7027
+Pleural_Thickening 0.4652
+Hernia 0.3076
+
+test_unseen AUROC mean 0.4934
+Edema 0.7217
+Pneumonia 0.5472
+Emphysema 0.3757
+Fibrosis 0.3289
+
+
+epoch 2
+val AUROC mean 0.6161
+Atelectasis 0.7083
+Cardiomegaly 0.7890
+Effusion 0.7849
+Infiltration 0.5283
+Mass 0.4502
+Nodule 0.6011
+Pneumothorax 0.6653
+Consolidation 0.6663
+Pleural_Thickening 0.4936
+Hernia 0.4734
+
+test_seen AUROC mean 0.6004
+Atelectasis 0.6939
+Effusion 0.7808
+Infiltration 0.5573
+Mass 0.4198
+Nodule 0.6047
+Pneumothorax 0.6751
+Consolidation 0.6744
+Cardiomegaly 0.7812
+Pleural_Thickening 0.4714
+Hernia 0.3454
+
+test_unseen AUROC mean 0.4910
+Edema 0.7197
+Pneumonia 0.5786
+Emphysema 0.3189
+Fibrosis 0.3468
+
+
+epoch 3
+val AUROC mean 0.6261
+Atelectasis 0.7106
+Cardiomegaly 0.8294
+Effusion 0.7841
+Infiltration 0.5724
+Mass 0.5411
+Nodule 0.5858
+Pneumothorax 0.4659
+Consolidation 0.6695
+Pleural_Thickening 0.5168
+Hernia 0.5851
+
+test_seen AUROC mean 0.6198
+Atelectasis 0.6940
+Effusion 0.7867
+Infiltration 0.5973
+Mass 0.5041
+Nodule 0.5825
+Pneumothorax 0.4960
+Consolidation 0.6586
+Cardiomegaly 0.8142
+Pleural_Thickening 0.5129
+Hernia 0.5516
+
+test_unseen AUROC mean 0.4890
+Edema 0.7359
+Pneumonia 0.5746
+Emphysema 0.3056
+Fibrosis 0.3400
+
+
+epoch 4
+val AUROC mean 0.6244
+Atelectasis 0.7123
+Cardiomegaly 0.8554
+Effusion 0.7979
+Infiltration 0.6118
+Mass 0.5131
+Nodule 0.6182
+Pneumothorax 0.5085
+Consolidation 0.6481
+Pleural_Thickening 0.4807
+Hernia 0.4982
+
+test_seen AUROC mean 0.6128
+Atelectasis 0.6852
+Effusion 0.8049
+Infiltration 0.6175
+Mass 0.4870
+Nodule 0.6146
+Pneumothorax 0.5342
+Consolidation 0.6314
+Cardiomegaly 0.8350
+Pleural_Thickening 0.5093
+Hernia 0.4086
+
+test_unseen AUROC mean 0.4981
+Edema 0.7117
+Pneumonia 0.5928
+Emphysema 0.3110
+Fibrosis 0.3768
+
+
+epoch 5
+val AUROC mean 0.6768
+Atelectasis 0.7157
+Cardiomegaly 0.8574
+Effusion 0.7974
+Infiltration 0.6604
+Mass 0.6391
+Nodule 0.6432
+Pneumothorax 0.6189
+Consolidation 0.6687
+Pleural_Thickening 0.6064
+Hernia 0.5607
+
+test_seen AUROC mean 0.6579
+Atelectasis 0.6858
+Effusion 0.7993
+Infiltration 0.6538
+Mass 0.5889
+Nodule 0.6332
+Pneumothorax 0.6195
+Consolidation 0.6536
+Cardiomegaly 0.8318
+Pleural_Thickening 0.6187
+Hernia 0.4942
+
+test_unseen AUROC mean 0.5366
+Edema 0.7342
+Pneumonia 0.6418
+Emphysema 0.3640
+Fibrosis 0.4062
+
+
+epoch 8
+val AUROC mean 0.6932
+Atelectasis 0.7199
+Cardiomegaly 0.8690
+Effusion 0.7802
+Infiltration 0.6620
+Mass 0.6526
+Nodule 0.6518
+Pneumothorax 0.5697
+Consolidation 0.6799
+Pleural_Thickening 0.5191
+Hernia 0.8276
+
+test_seen AUROC mean 0.6907
+Atelectasis 0.6850
+Effusion 0.7729
+Infiltration 0.6584
+Mass 0.5887
+Nodule 0.6550
+Pneumothorax 0.6140
+Consolidation 0.6734
+Cardiomegaly 0.8521
+Pleural_Thickening 0.5363
+Hernia 0.8708
+
+test_unseen AUROC mean 0.5179
+Edema 0.7350
+Pneumonia 0.6209
+Emphysema 0.3469
+Fibrosis 0.3689
+
+
+epoch 9
+val AUROC mean 0.7064
+Atelectasis 0.7482
+Cardiomegaly 0.8795
+Effusion 0.7897
+Infiltration 0.6331
+Mass 0.6567
+Nodule 0.6746
+Pneumothorax 0.6324
+Consolidation 0.6881
+Pleural_Thickening 0.5417
+Hernia 0.8202
+
+test_seen AUROC mean 0.7001
+Atelectasis 0.7219
+Effusion 0.7974
+Infiltration 0.6488
+Mass 0.5890
+Nodule 0.6857
+Pneumothorax 0.6315
+Consolidation 0.6788
+Cardiomegaly 0.8548
+Pleural_Thickening 0.5147
+Hernia 0.8784
+
+test_unseen AUROC mean 0.5245
+Edema 0.7747
+Pneumonia 0.6257
+Emphysema 0.3129
+Fibrosis 0.3847
+
+
+epoch 10
+val AUROC mean 0.7018
+Atelectasis 0.7406
+Cardiomegaly 0.8678
+Effusion 0.7975
+Infiltration 0.6611
+Mass 0.5520
+Nodule 0.6683
+Pneumothorax 0.6917
+Consolidation 0.6653
+Pleural_Thickening 0.5337
+Hernia 0.8398
+
+test_seen AUROC mean 0.6897
+Atelectasis 0.7121
+Effusion 0.8002
+Infiltration 0.6639
+Mass 0.5067
+Nodule 0.6597
+Pneumothorax 0.6986
+Consolidation 0.6585
+Cardiomegaly 0.8534
+Pleural_Thickening 0.5335
+Hernia 0.8100
+
+test_unseen AUROC mean 0.5407
+Edema 0.7665
+Pneumonia 0.6458
+Emphysema 0.3540
+Fibrosis 0.3965
